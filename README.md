@@ -1,16 +1,40 @@
-## Hi there 👋
+# Omar Owais (`Jk-7bod7`)
 
-<!--
-**Jk-7bod7/Jk-7bod7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automation & Integration Engineer | Workflow Architecture & Reliability**
 
-Here are some ideas to get you started:
+Applied software engineer specializing in resilient webhook pipelines, workflow automation, API integration, and containerized development stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Engineering Project
+
+### [PORTFOLIO-024: WordPress Contact Form 7 → n8n → Mock CRM Integration Lab](https://github.com/Jk-7bod7/portfolio-024-wordpress-cf7-n8n-lab)
+
+> **Classification:** *Independent Local Reference Implementation (Synthetic Data & Local Mock CRM)*
+
+A fault-tolerant form intake architecture connecting WordPress Contact Form 7 to n8n and an internal Python FastAPI + SQLite mock CRM, verified with local email delivery via Mailpit:
+
+- **Durable Local Outbox:** MySQL/MariaDB queue buffers submissions on downstream failure with bounded exponential backoff retries.
+- **Authenticated Webhooks:** Mutual header authentication (`X-Webhook-Secret`) with strict schema validation.
+- **Idempotency & Deduplication:** Cryptographic UUIDv4 keys ensure zero duplicate lead insertions on replay.
+- **Local Sandbox Verification:** 100% of lead notifications captured locally in Mailpit without external email transmission.
+- **Testing:** 10/10 automated integration tests pass, with end-to-end browser execution verified via Chrome DevTools Protocol.
+
+**Tech Stack:** WordPress 6.6 • Contact Form 7 • n8n 2.46 • Python 3.11 • FastAPI • SQLite • MariaDB 11.4 • Docker Compose • Mailpit
+
+👉 **[View Repository & Implementation Details →](https://github.com/Jk-7bod7/portfolio-024-wordpress-cf7-n8n-lab)**
+
+---
+
+## 🛠️ Technical Competencies
+
+- **Automation & Integrations:** n8n Workflow Automation, Webhook Intake Architecture, REST API Design, Idempotent Processing, Outbox Patterns, Error Handling & Retries
+- **Backend & Languages:** Python (FastAPI, Uvicorn, Pydantic, unittest), PHP, SQL, Bash / PowerShell
+- **Databases & Stores:** SQLite, MariaDB / MySQL, Relational Schema Design
+- **Infrastructure & DevOps:** Docker, Docker Compose, Linux, Git Version Control, Mailpit Local SMTP
+
+---
+
+## 📚 Academic & Research Projects
+
+- **[crop-monitoring-cv](https://github.com/Jk-7bod7/crop-monitoring-cv):** Computer vision pipeline for plant health monitoring based on HSV color space segmentation of leaf imagery.
