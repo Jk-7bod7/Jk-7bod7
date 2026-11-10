@@ -8,7 +8,7 @@ Applied software engineer specializing in resilient webhook pipelines, workflow 
 
 ## 🚀 Featured Engineering Project
 
-### [PORTFOLIO-024: WordPress Contact Form 7 → n8n → Mock CRM Integration Lab](https://github.com/Jk-7bod7/portfolio-024-wordpress-cf7-n8n-lab)
+### [WordPress Contact Form 7 → n8n CRM Integration Lab](https://github.com/Jk-7bod7/wordpress-cf7-n8n-crm-integration-lab)
 
 > **Classification:** *Independent Local Reference Implementation (Synthetic Data & Local Mock CRM)*
 
@@ -22,7 +22,7 @@ A fault-tolerant form intake architecture connecting WordPress Contact Form 7 to
 
 **Tech Stack:** WordPress 6.6 • Contact Form 7 • n8n 2.46 • Python 3.11 • FastAPI • SQLite • MariaDB 11.4 • Docker Compose • Mailpit
 
-👉 **[View Repository & Implementation Details →](https://github.com/Jk-7bod7/portfolio-024-wordpress-cf7-n8n-lab)**
+👉 **[View Repository & Implementation Details →](https://github.com/Jk-7bod7/wordpress-cf7-n8n-crm-integration-lab)**
 
 ---
 
